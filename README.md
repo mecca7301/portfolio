@@ -2,7 +2,7 @@
 This is a personal portfolio website with four pages:
 1. **Home** - Landing page with introduction.
 2. **About** - Personal bio and skills.
-3. **Recipe 1** - MaUgali
+3. **Recipe 1** - Ugali
 4. **Recipe 2** - Nyama choma.
 
 ## How to Run
